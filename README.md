@@ -2,7 +2,7 @@
 ### Um conjunto de suites de testes para validação da aplicação
 ## Instrução:
 
- ## *** feedreader.js ***: Esse arquivo o jasmine irá ler para verificar a validação dos testes dentro
+ ##  feedreader.js : Esse arquivo o jasmine irá ler para verificar a validação dos testes dentro
 da função.
 
 1) A **PRIMEIRA** suite de testes (RSS Feeds), sua função é testar se os itens do array allFeeds estão definidos ou vazios.
